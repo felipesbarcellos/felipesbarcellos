@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/RPA-009688?style=for-the-badge&logo=android&logoColor=white" alt="RPA 🤖"/>
   <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
