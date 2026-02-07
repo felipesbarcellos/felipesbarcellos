@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Felipe Barcellos
+# Felipe Barcellos - Full Stack Developer
 
-## Full Stack Developer
+## 🌟 Featured Project
+Checkout my full stack project using python and vue.js.
+- [MeusFilmes](https://github.com/felipesbarcellos/MeusFilmes) — My personal project for movie organization and discovery.
 
-## 🛠️ Main Technologies
+## Main Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -18,20 +20,6 @@
   <img src="https://img.shields.io/badge/AI%20Agents-262626?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
 </p>
 
-## 🧩 Exploring & Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="matplotlib"/>
-</p>
-
-## 🌟 Featured Project
-
-- [MeusFilmes](https://github.com/felipesbarcellos/MeusFilmes) — My personal project for movie organization and discovery.
 
 ## 🌐 Contact
 
