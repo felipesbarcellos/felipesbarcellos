@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Felipe Barcellos
 
-## Full Stack Developer | AI Enthusiast
-
-🎓 Currently studying **Data Science**  
-💡 Always learning about new technologies  
-🤖 Passionate about **RPA automation with Python**
+## Full Stack Developer
 
 ## 🛠️ Main Technologies
 
